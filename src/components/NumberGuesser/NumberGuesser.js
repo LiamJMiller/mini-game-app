@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const GuessTheNumberGame = () => {
+const NumberGuesser = () => {
   const [randomNumber, setRandomNumber] = useState(generateRandomNumber());
   const [userGuess, setUserGuess] = useState("");
   const [message, setMessage] = useState("");
@@ -52,4 +52,4 @@ const GuessTheNumberGame = () => {
   );
 };
 
-export default GuessTheNumberGame;
+export default NumberGuesser;
