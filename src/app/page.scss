@@ -14,6 +14,7 @@
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
+    background-color: #01aaa7;
   }
 
   &__game-tile {
@@ -21,5 +22,6 @@
     margin: 1rem;
     width: 20%;
     border: 2px black solid;
+    background-color: #ffffff;
   }
 }
