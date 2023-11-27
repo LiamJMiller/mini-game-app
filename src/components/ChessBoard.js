@@ -1,6 +1,6 @@
 import React from "react";
 import { Chess } from "chess.js";
-import "./ChessBoard.scss";
+import "../styles/ChessBoard.scss";
 
 const Chessboard = () => {
   const chess = new Chess(); // Initialize the chess game
