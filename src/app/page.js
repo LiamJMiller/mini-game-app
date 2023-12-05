@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h1 className="home__title">My MiniGame Site</h1>
-      <div className="home__games-area">
+      {/* <div className="home__games-area">
         <div className="home__game-tile">chess</div>
         <div className="home__game-tile">hangman</div>
         <div className="home__game-tile">minesweeper</div>
@@ -17,10 +17,8 @@ export default function Home() {
         <div className="home__game-tile">sudoku</div>
         <div className="home__game-tile">tic tac toe</div>
         <div className="home__game-tile">2048</div>
-      </div>
-      <br />
+      </div> */}
       <GamesList />
-      <Chessboard />
     </main>
   );
 }

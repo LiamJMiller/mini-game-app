@@ -17,9 +17,9 @@ const GameList = () => {
   ];
 
   return (
-    <div className="game-list">
+    <div className="games-list">
       {games.map((game, index) => (
-        <GameTile className="games-list__tile" key={index} title={game} />
+        <GameTile key={index} title={game} />
       ))}
     </div>
   );

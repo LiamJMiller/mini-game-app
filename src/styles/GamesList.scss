@@ -1,4 +1,5 @@
-games-list {
+.games-list {
+  margin: 1rem;
   padding: 1rem;
   border: 2px black solid;
   width: 100%;
@@ -8,13 +9,4 @@ games-list {
   justify-content: space-between;
   flex-wrap: wrap;
   background-color: #01aaa7;
-
-  &__tile {
-    height: 15rem;
-    margin: 1rem;
-    width: 20%;
-    border: 2px black solid;
-    background-color: #ffffff;
-    text-align: center;
-  }
 }
