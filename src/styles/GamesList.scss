@@ -1,0 +1,12 @@
+.games-list {
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px black solid;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: #01aaa7;
+}

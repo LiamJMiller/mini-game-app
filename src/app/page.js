@@ -1,21 +1,27 @@
 "use client";
 
-import Chessboard from "@/components/ChessBoard/ChessBoard";
+import Chessboard from "@/components/ChessBoard";
+import GamesList from "@/components/GamesList";
 import styles from "./page.module.css";
+import "./page.scss";
 import { Chess } from "chess.js";
 import { useState } from "react";
 
 export default function Home() {
-  const [game, setGame] = useState(new Chess()); // Initialize the chess game
-
   return (
     <main className={styles.main}>
-      <div>
-        <div>My MiniGame Site</div>
-        <div>
-          <Chessboard game={game} setGame={setGame} />
-        </div>
-      </div>
+      <h1 className="home__title">My MiniGame Site</h1>
+      {/* <div className="home__games-area">
+        <div className="home__game-tile">chess</div>
+        <div className="home__game-tile">hangman</div>
+        <div className="home__game-tile">minesweeper</div>
+        <div className="home__game-tile">card matching</div>
+        <div className="home__game-tile">number guesser</div>
+        <div className="home__game-tile">sudoku</div>
+        <div className="home__game-tile">tic tac toe</div>
+        <div className="home__game-tile">2048</div>
+      </div> */}
+      <GamesList />
     </main>
   );
 }

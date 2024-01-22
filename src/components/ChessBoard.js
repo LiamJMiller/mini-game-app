@@ -1,6 +1,6 @@
 import useState from "react";
 import { Chess } from "chess.js";
-import "./ChessBoard.scss";
+import "../styles/ChessBoard.scss";
 
 const Chessboard = (game, setGame) => {
   // Create a chessboard grid
