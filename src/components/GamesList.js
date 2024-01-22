@@ -5,14 +5,11 @@ import "../styles/GamesList.scss";
 
 const GameList = () => {
   const games = [
+    "Late To Work",
     "Chess",
     "Hangman",
-    "Minesweeper",
-    "Card Matching",
     "Number Guesser",
-    "Sudoku",
     "Tic Tac Toe",
-    "2048",
     // Add more games as needed
   ];
 
