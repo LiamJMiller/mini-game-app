@@ -1,0 +1,167 @@
+{
+  "textures": [
+    {
+      "image": "liamSpriteJump.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 448,
+        "h": 69
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "Jump_liamSprite0.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 69
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          }
+        },
+        {
+          "filename": "Jump_liamSprite1.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 69
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          },
+          "frame": {
+            "x": 64,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          }
+        },
+        {
+          "filename": "Jump_liamSprite2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 69
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          },
+          "frame": {
+            "x": 128,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          }
+        },
+        {
+          "filename": "Jump_liamSprite3.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 69
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          },
+          "frame": {
+            "x": 192,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          }
+        },
+        {
+          "filename": "Jump_liamSprite4.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 69
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          },
+          "frame": {
+            "x": 256,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          }
+        },
+        {
+          "filename": "Jump_liamSprite5.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 69
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          },
+          "frame": {
+            "x": 320,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          }
+        },
+        {
+          "filename": "Jump_liamSprite6.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 69
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          },
+          "frame": {
+            "x": 384,
+            "y": 0,
+            "w": 64,
+            "h": 69
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:ae40801310a9521984638abc6dcada10:f4ac46f5ffed967c3e6aad1398d01ed0:9bd31bf0d6b90a34e5f893965d5c0f4d$"
+  }
+}

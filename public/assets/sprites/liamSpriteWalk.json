@@ -1,0 +1,299 @@
+{
+  "textures": [
+    {
+      "image": "liamSpriteWalk.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 927,
+        "h": 102
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "spritesheet_walk-0.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 20,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.5079365079365079,
+            "y": 0.5483870967741935
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        },
+        {
+          "filename": "spritesheet_walk-1.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 123,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.5238095238095238,
+            "y": 0.5483870967741935
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        },
+        {
+          "filename": "spritesheet_walk-2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 226,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.5396825396825397,
+            "y": 0.5483870967741935
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        },
+        {
+          "filename": "spritesheet_walk-3.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 329,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.5555555555555556,
+            "y": 0.532258064516129
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        },
+        {
+          "filename": "spritesheet_walk-4.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 432,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.5714285714285714,
+            "y": 0.5483870967741935
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        },
+        {
+          "filename": "spritesheet_walk-5.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 535,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.5873015873015873,
+            "y": 0.5806451612903226
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        },
+        {
+          "filename": "spritesheet_walk-6.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 638,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.6031746031746031,
+            "y": 0.5483870967741935
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        },
+        {
+          "filename": "spritesheet_walk-7.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 741,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.6031746031746031,
+            "y": 0.5645161290322581
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        },
+        {
+          "filename": "spritesheet_walk-8.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 63,
+            "h": 62
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 63,
+            "h": 62
+          },
+          "frame": {
+            "x": 844,
+            "y": 20,
+            "w": 63,
+            "h": 62
+          },
+          "anchor": {
+            "x": 0.6190476190476191,
+            "y": 0.532258064516129
+          },
+          "scale9Borders": {
+            "x": 16,
+            "y": 16,
+            "w": 31,
+            "h": 31
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:43b4ab3717618066d99c25b671331a54:a2e2f065edd70fbb01ceddbcea3dce04:039df46ff40e8dd88a10d55893092224$"
+  }
+}
